@@ -1,0 +1,4 @@
+1,iman,20,cse
+2,priya,20,cse
+3,ashraf,20,ag bse
+4,leela,22,sdsf
